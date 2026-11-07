@@ -1,0 +1,40 @@
+body {
+    background-image: url(C:\MyProject\img\du.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: #222;
+    color:aquamarine;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+h1, h2{
+    color: #ff9900;
+    font-size: 50px;
+    letter-spacing: 1px;
+}
+
+p{
+    font-size: 25px;
+}
+
+li{
+    font-size: 20px;
+}
+
+img{
+    border-radius: 20px;
+    border: 5px solid #800080b0;
+}
+
+.box {
+    background-color: rgba(255, 255, 255, 0.1);
+    max-width: 1488px;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 12px;
+    border: 1px solid #cccccc;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
